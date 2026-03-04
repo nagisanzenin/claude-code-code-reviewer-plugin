@@ -1,0 +1,10 @@
+{
+  "name": "code-reviewer",
+  "description": "Architecture conformance, code quality, security, and performance review with auto-fix capabilities",
+  "version": "1.0.0",
+  "author": {
+    "name": "nagisanzenin"
+  },
+  "license": "MIT",
+  "keywords": ["code-review", "quality", "architecture", "conformance", "auto-fix", "linting"]
+}
